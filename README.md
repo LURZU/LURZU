@@ -56,7 +56,7 @@ I used to spend my evenings on Minecraft. But instead of just playing, I wanted 
 |  **CapyTale** | Hytale plugin for a community server. Custom event and command system, deployed on a self-hosted Linux server. | `Java` `Maven` `Linux` |
 |  **Academic Projects** | Numerous projects built end-to-end: REST APIs, React apps, Docker integration, CI/CD pipelines, Kubernetes deployments. | `React` `NestJS` `Docker` `Kubernetes` `Kustomize` |
 
-![LURZU GitHub stats](https://github-readme-stats-lurzu-a35dec24.vercel.app/api?username=lurzu&show_icons=true)
+![LURZU GitHub stats](https://github-readme-stats-lurzu-a35dec24.vercel.app/api?username=lurzu&show_icons=true&v=2)
 
 ![LURZU GitHub langage stats](https://github-readme-stats-lurzu-a35dec24.vercel.app/api/top-langs/?username=lurzu&layout=compact&theme=tokyonight&hide_border=true)
 
