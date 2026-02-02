@@ -56,6 +56,8 @@ I used to spend my evenings on Minecraft. But instead of just playing, I wanted 
 |  **CapyTale** | Hytale plugin for a community server. Custom event and command system, deployed on a self-hosted Linux server. | `Java` `Maven` `Linux` |
 |  **Academic Projects** | Numerous projects built end-to-end: REST APIs, React apps, Docker integration, CI/CD pipelines, Kubernetes deployments. | `React` `NestJS` `Docker` `Kubernetes` `Kustomize` |
 
+[![LURZU GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats-lurzu-a35dec24.vercel.app/api?username=lurzu))](https://github.com/LURZU/github-readme-stats)
+
 ## ⚡ Interests
 Outside of coding, I'm a dedicated gamer — modded Minecraft (400+ mods, go big or go home, love create), Hytale, and everything related to game modding. That's actually how I learned to code in the first place, and it's still what drives me to explore new technologies.
 
