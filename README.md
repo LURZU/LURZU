@@ -58,6 +58,9 @@ I used to spend my evenings on Minecraft. But instead of just playing, I wanted 
 
 ![LURZU GitHub stats](https://github-readme-stats-lurzu-a35dec24.vercel.app/api?username=lurzu&show_icons=true)
 
+![LURZU GitHub langage stats](https://github-readme-stats-lurzu-a35dec24.vercel.app/api/top-langs/?username=lurzu&layout=compact&theme=tokyonight&hide_border=true)
+
+
 ## ⚡ Interests
 Outside of coding, I'm a dedicated gamer — modded Minecraft (400+ mods, go big or go home, love create), Hytale, and everything related to game modding. That's actually how I learned to code in the first place, and it's still what drives me to explore new technologies.
 
