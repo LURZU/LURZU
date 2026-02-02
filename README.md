@@ -57,7 +57,7 @@ I used to spend my evenings on Minecraft. But instead of just playing, I wanted 
 | 🌐 **Academic Projects** | Numerous projects built end-to-end: REST APIs, React apps, Docker integration, CI/CD pipelines, Kubernetes deployments. | `React` `NestJS` `Docker` `Kubernetes` `Kustomize` |
 
 ## ⚡ Interests
-Outside of coding, I'm a dedicated gamer — modded Minecraft (400+ mods, go big or go home), Hytale, and everything related to game modding. That's actually how I learned to code in the first place, and it's still what drives me to explore new technologies.
+Outside of coding, I'm a dedicated gamer — modded Minecraft (400+ mods, go big or go home, love create), Hytale, and everything related to game modding. That's actually how I learned to code in the first place, and it's still what drives me to explore new technologies.
 
 ### 📫 Get in Touch
 
