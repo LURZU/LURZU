@@ -53,7 +53,7 @@ I used to spend my evenings on Minecraft. But instead of just playing, I wanted 
 | Project | Description | Tech |
 |---------|-------------|------|
 |  **SnapyBara** | Mobile app for discovering places through an interactive map. Dynamic POI loading based on zoom level. | `Kotlin` `Jetpack Compose` `NestJS` `MongoDB` `OpenStreetMap` `Google Places API` |
-|  **CapyTale** | Hytale plugin for a community server. Custom event and command system, deployed on a self-hosted Linux server. | `Java` `Maven` `Linux` |
+|  **Lexirogue** | A web game inspired by Tusmo, where the goal is to create a roguelike game in which you must guess words to defeat enemies and improve your score.  | `Vue.JS` `NestJS` `Docker` |
 |  **Academic Projects** | Numerous projects built end-to-end: REST APIs, React apps, Docker integration, CI/CD pipelines, Kubernetes deployments. | `React` `NestJS` `Docker` `Kubernetes` `Kustomize` |
 
 ![LURZU GitHub stats](https://github-readme-stats-lurzu-a35dec24.vercel.app/api?username=lurzu&show_icons=true&v=2)
